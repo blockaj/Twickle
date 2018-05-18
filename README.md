@@ -1,4 +1,4 @@
-#Twickle
+#	Twickle
 
 A thoughtful, radical approach to Twitter.
 
@@ -6,4 +6,4 @@ What is Twitter all about? What separates Twitter from other social media platfo
 
 Twickle attempts to make-up for what other Twitter clients have failed to do. Provide a clean, minimalistic interface primarily based on text while supporting other forms of media so your timeline can be viewed in one continuous stream. 
 
-##Documentation
+##	Documentation
