@@ -9,4 +9,4 @@ Twickle attempts to make-up for what other Twitter clients have failed to do. Pr
 ##	Documentation
 ### Commands
 *	`tweet [tweet content]`
-.. Tweet using the. 
+ Tweet using the. 
